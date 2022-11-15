@@ -1,13 +1,13 @@
-package com.instaclone.instaclone;
+package com.instaclone.Minstagram;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class InstacloneApplication {
+public class MinstagramApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(InstacloneApplication.class, args);
+		SpringApplication.run(MinstagramApplication.class, args);
 	}
 
 }

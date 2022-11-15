@@ -1,10 +1,10 @@
-package com.instaclone.instaclone;
+package com.instaclone.Minstagram;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class InstacloneApplicationTests {
+class MinstagramApplicationTests {
 
 	@Test
 	void contextLoads() {
